@@ -10,5 +10,6 @@ formEl.addEventListener("submit", (e) => {
     const todoLiEl = document.createElement("li");
     todoLiEl.innerHTML = todoText;
     todosUlEl.appendChild(todoLiEl);
+    inputEl.value = "";
   }
 });
