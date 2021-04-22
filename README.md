@@ -5,4 +5,4 @@ This is a simple todo application using javascript and local storage
 ![Scrrenshot](screens/screen.png)
 
 # Live Link
-Check the live verion here <https://jeevakalaiselvam.github.io/simple-js-todo-app/>
+Check the live version here <https://jeevakalaiselvam.github.io/simple-js-todo-app/>
